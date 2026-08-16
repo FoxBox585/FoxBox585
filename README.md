@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FoxBox585/FoxBox585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет · Salut · Hello 👋
 
-Here are some ideas to get you started:
+**I'm Artyom — [`@FoxBox585`](https://github.com/FoxBox585)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Linguist-in-training at **MSLU** · 👨‍🏫 Language tutor · 🛠️ Part-time tech tinkerer
+
+🇬🇧 English · 🇫🇷 Français · 🇷🇺 Русский
+
+[![GitHub org: OpenSchwa](https://img.shields.io/badge/GitHub-OpenSchwa-E36C02?style=flat-square&logo=github&logoColor=white)](https://github.com/openschwa)
+[![openschwa.ru](https://img.shields.io/badge/openschwa.ru-3B3E45?style=flat-square)](https://openschwa.ru)
+
+</div>
+
+---
+
+## 🗣️ Who am I?
+
+Half linguist, half tinkerer.
+
+I study languages at **MSLU**, teach them for a living, and in my free time
+I poke at software until it does something interesting — occasionally even on
+purpose.
